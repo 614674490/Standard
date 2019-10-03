@@ -1,0 +1,31 @@
+capacity\adc.o: ../Src/adc.c
+capacity\adc.o: ../Inc/adc.h
+capacity\adc.o: ../Inc/main.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+capacity\adc.o: ../Inc/stm32f1xx_hal_conf.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+capacity\adc.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+capacity\adc.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+capacity\adc.o: ../Drivers/CMSIS/Include/core_cm3.h
+capacity\adc.o: E:\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdint.h
+capacity\adc.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+capacity\adc.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+capacity\adc.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+capacity\adc.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+capacity\adc.o: E:\Keil5 MDK\ARM\ARMCC\Bin\..\include\stdio.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+capacity\adc.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
